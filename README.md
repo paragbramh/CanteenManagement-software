@@ -13,7 +13,7 @@ It is a canteen management application
 
 5. go th xampp server start Apache and start Mysql
 
-6. 6.click on Admin of Mysql
+6.click on Admin of Mysql
 
 7. you will se a php my admin gui
 
