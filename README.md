@@ -4,8 +4,8 @@ It is a canteen management application
 
 //to run
 1.download the zip file to your computer
-2. extract the files
-3. Make sure you have Xampp installed on your system
+ extract the files
+ Make sure you have Xampp installed on your system
 4. copy the extracted file folder to => ,C:\xampp\htdocs  ( or to your respective drive)
 5. go th xampp server start Apache and start Mysql
 6. 6.click on Admin of Mysql
